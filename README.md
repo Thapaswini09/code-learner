@@ -1,1 +1,8 @@
 # code-learner
+
+1. Title: CHATBOT FOR HEALTH AWARENESS
+2. Description: To start a good life healthcare is more important. But it is very difficult to obtain the consultation with the doctor in case of any health issues. The proposed idea is to create a health care Chabot system using Artificial Intelligence that can diagnose the disease and provide basic details about the disease before consulting a doctor. The system provides text (or) voice assistance that means user can use own convenient language. Bot will provides which type of disease you have based on user symptoms and appeared doctor details respective to user disease. The Chabot will clarify the users symptoms with serious of questions and the symptom conformation will be done. The disease will be categorized as minor and major disease. Chatbot will reply whether it is a major or minor disease .If it is a major disease user will be suggested with the doctor details and analagesics for further treatment and also provides food suggestion that means which type of food you have to take. The user can achieve the real benefit of a chatbot only when it can diagnose all kind of disease and provide necessary information. A text-to-text diagnosis Bot engages patients in conversation about their medical issues and provides a personalized diagnosis based on their symptoms. Hence, people will have an idea about their health and have the right protection.
+3. To install and run: 1. Install the python of lateset version
+                       2. Install the numpy library by giving command in command prompt: pip install numpy
+                       3. Install pandas with command : pip install pandas
+For front end part can make use of visual studio code
